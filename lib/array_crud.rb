@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = Array.new
+  array = ["July", "August", "September", "October"]
 
 end
 
